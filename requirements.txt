@@ -11,7 +11,7 @@ Lasagne==0.1
 matplotlib==3.0.3
 networkx==2.2
 nolearn==0.6.0
-numpy==1.16.2
+numpy==1.22.0
 opencv-python==4.1.0.25
 pandas==0.24.2
 Pillow==6.0.0
